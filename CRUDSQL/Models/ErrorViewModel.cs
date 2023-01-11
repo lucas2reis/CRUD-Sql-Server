@@ -1,5 +1,3 @@
-using System;
-
 namespace CRUDSQL.Models
 {
     public class ErrorViewModel
